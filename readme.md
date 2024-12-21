@@ -10,6 +10,8 @@ This decentralized application (dApp) is powered by smart contracts on the Ether
 
 ## Contract Address:
 0x88ab60292c90e6e48fe53F0c73f3ef31Fa972266
+![image](https://github.com/user-attachments/assets/36ecf162-4780-4164-9ef8-b82e2964829c)
+
 
 ## Project Vision:
 The vision of the project is to provide an immersive experience for career exploration by combining gaming with blockchain technology. By leveraging NFTs, users are incentivized to explore different career paths in a way that is interactive and rewarding. The goal is to make career discovery more fun and accessible to everyone, especially in a world where traditional career paths can sometimes be unclear or uninspiring.
